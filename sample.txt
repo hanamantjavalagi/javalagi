@@ -7,4 +7,6 @@ horti
 indi 
 muddebihal
 gadag
+bangalore 
+hassan
 
